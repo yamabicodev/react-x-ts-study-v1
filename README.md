@@ -1,2 +1,8 @@
 # react-x-ts-study-v1
-Created with CodeSandbox
+
+### Type Script fundermental study
+
+- tsconfig
+  - compilerOptions
+    - strict
+    - noImplicitAny
